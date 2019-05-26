@@ -1,8 +1,5 @@
 # Django Project 만들기
 
-Created: May 26, 2019 9:54 AM
-Tags: Django
-
 ## 가상환경(virtual env) 만들기
 
 꼭 ! 아래 page에서 가상환경을 만들고 활성화한 후 단계를 진행해주세요.
@@ -87,6 +84,7 @@ Tags: Django
     │   ├── settings.py  
     │   ├── urls.py  
     │   └── wsgi.py  
+    ├── db.sqlite3 
     └── manage.py  
 
 프로젝트 구조를 보시면서 혼동되지 않도록 주의합니다. (37은 python3.7 의미)
