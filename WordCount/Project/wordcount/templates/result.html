@@ -1,0 +1,11 @@
+<a href="{%url 'home'%}">Return</a>
+<br>
+<h1>Total words : {{length}}</h1>
+<h2>Input Text</h2>
+{{full}}
+<h2>Word Count List</h2>
+{% for word, count in countList %}
+
+{{word}} : {{count}}
+<br>
+{% endfor %}

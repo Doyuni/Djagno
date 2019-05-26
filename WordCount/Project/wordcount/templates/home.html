@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="kr">
+<head>
+    <meta charset="UTF-8">
+    <title>Django wordcount</title>
+</head>
+<body>
+    <h1>Hello, This page counts words.</h1>
+    <a href="{%url 'about' %}">About</a>
+    <p>Write the text below the blank</p>
+    <!-- 해당 url로 데이터 전달 -->
+    <form action="{%url 'result' %}"> 
+        <textarea cols ="100" rows="30" name="fulltext"></textarea>
+        <br>
+        <input type="submit" value="count right now !">
+    </form>
+</body>
+</html>
