@@ -2,7 +2,8 @@
 
 ## 가상환경(virtual env) 만들기
 
-꼭 ! 아래 page에서 가상환경을 만들고 활성화한 후 단계를 진행해주세요.
+꼭 ! 아래 page에서 가상환경을 만들고 활성화한 후 단계를 진행해주세요.  
+[가상환경 만들기](https://www.notion.so/doyuni/Virtual-Environment-f53375349fd74754a9b5d6687dd67827)
 
 ## 장고(django) 프로젝트 만들기
 
