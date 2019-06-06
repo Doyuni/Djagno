@@ -16,3 +16,8 @@ $ pip install -r requirements.txt
 ```shell
 $ python manage.py runserver
 ```
+----
+### Improved App
+[Link](https://github.com/Doyuni/WordCount)   
+- Improved UI with Bootstraps
+- Improved function(word counting)
